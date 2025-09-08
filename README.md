@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto (JS Edition)
 
-![Portada](https://img.freepik.com/vector-gratis/caja-sorpresa_53876-43077.jpg)
+![Portada](https://www.freepik.es/vector-gratis/coleccion-regalos-navidad-dibujados-mano_5894594.htm#fromView=search&page=1&position=12&uuid=f5f84ffd-90fa-4c49-a120-82534c492ed1&query=regalos)
 
 ![Estado](https://img.shields.io/badge/Estado-Listo-green) 
 ![JS](https://img.shields.io/badge/Código-JavaScript-black) 
@@ -8,8 +8,8 @@
 
 ---
 
-## 🕹 ¿De qué va esto?
-Un script en JavaScript que hace lo que todos necesitamos en diciembre (o cuando no queremos gastar mucho): **sortear un Amigo Secreto sin pelearse**.  
+## 🕹 ¿Que es esto?
+Un script en JavaScript que hace lo que todos necesitamos en diciembre (o cuando no queremos gastar en muchos regalos): **sortear un Amigo Secreto sin pelearse**.  
 
 ---
 
