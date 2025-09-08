@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto (JS Edition)
 
-![Portada](https://www.freepik.es/vector-gratis/coleccion-regalos-navidad-dibujados-mano_5894594.htm#fromView=search&page=1&position=12&uuid=f5f84ffd-90fa-4c49-a120-82534c492ed1&query=regalos)
+![Portada](https://www.photo-pick.com/online/FrXnwUf2.link)
 
 ![Estado](https://img.shields.io/badge/Estado-Listo-green) 
 ![JS](https://img.shields.io/badge/Código-JavaScript-black) 
