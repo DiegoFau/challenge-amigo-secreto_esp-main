@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto (JS Edition)
 
-![Portada](https://www.photo-pick.com/online/FrXnwUf2.link)
+![Portada](https://images.vexels.com/media/users/3/126027/raw/c6d8ec9d3d92e6f768d43ee89a8de295-isolated-linear-gift-box-illustration.jpg)
 
 ![Estado](https://img.shields.io/badge/Estado-Listo-green) 
 ![JS](https://img.shields.io/badge/Código-JavaScript-black) 
