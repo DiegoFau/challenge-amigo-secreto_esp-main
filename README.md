@@ -39,7 +39,7 @@ Pendiente: que compre y reparta también los regalos. 🎁
 ---
 
 ## 🧑‍💻 Creadores
-- **[Yo mismo]** (un poco código, café y algo de suerte 🍀)  
+- **[Yo mismo]** (un poco de código, café y algo de suerte 🍀)  
 
 ---
 
